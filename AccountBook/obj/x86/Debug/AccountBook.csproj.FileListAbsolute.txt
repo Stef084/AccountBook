@@ -1,0 +1,13 @@
+C:\Users\Stefan\documents\visual studio 2010\Projects\AccountBook\AccountBook\bin\Debug\AccountBook.exe
+C:\Users\Stefan\documents\visual studio 2010\Projects\AccountBook\AccountBook\bin\Debug\AccountBook.pdb
+C:\Users\Stefan\documents\visual studio 2010\Projects\AccountBook\AccountBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\documents\visual studio 2010\Projects\AccountBook\AccountBook\obj\x86\Debug\MainWindow.baml
+C:\Users\Stefan\documents\visual studio 2010\Projects\AccountBook\AccountBook\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Stefan\documents\visual studio 2010\Projects\AccountBook\AccountBook\obj\x86\Debug\App.g.cs
+C:\Users\Stefan\documents\visual studio 2010\Projects\AccountBook\AccountBook\obj\x86\Debug\AccountBook_MarkupCompile.cache
+C:\Users\Stefan\documents\visual studio 2010\Projects\AccountBook\AccountBook\obj\x86\Debug\AccountBook.g.resources
+C:\Users\Stefan\documents\visual studio 2010\Projects\AccountBook\AccountBook\obj\x86\Debug\AccountBook.Properties.Resources.resources
+C:\Users\Stefan\documents\visual studio 2010\Projects\AccountBook\AccountBook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Stefan\documents\visual studio 2010\Projects\AccountBook\AccountBook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Stefan\documents\visual studio 2010\Projects\AccountBook\AccountBook\obj\x86\Debug\AccountBook.exe
+C:\Users\Stefan\documents\visual studio 2010\Projects\AccountBook\AccountBook\obj\x86\Debug\AccountBook.pdb
